@@ -1,0 +1,16 @@
+C:\Users\antho\repos\SwitchStatementProject\bin\Debug\net5.0\SwitchStatementProject.exe
+C:\Users\antho\repos\SwitchStatementProject\bin\Debug\net5.0\SwitchStatementProject.deps.json
+C:\Users\antho\repos\SwitchStatementProject\bin\Debug\net5.0\SwitchStatementProject.runtimeconfig.json
+C:\Users\antho\repos\SwitchStatementProject\bin\Debug\net5.0\SwitchStatementProject.runtimeconfig.dev.json
+C:\Users\antho\repos\SwitchStatementProject\bin\Debug\net5.0\SwitchStatementProject.dll
+C:\Users\antho\repos\SwitchStatementProject\bin\Debug\net5.0\ref\SwitchStatementProject.dll
+C:\Users\antho\repos\SwitchStatementProject\bin\Debug\net5.0\SwitchStatementProject.pdb
+C:\Users\antho\repos\SwitchStatementProject\obj\Debug\net5.0\SwitchStatementProject.csprojAssemblyReference.cache
+C:\Users\antho\repos\SwitchStatementProject\obj\Debug\net5.0\SwitchStatementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\SwitchStatementProject\obj\Debug\net5.0\SwitchStatementProject.AssemblyInfoInputs.cache
+C:\Users\antho\repos\SwitchStatementProject\obj\Debug\net5.0\SwitchStatementProject.AssemblyInfo.cs
+C:\Users\antho\repos\SwitchStatementProject\obj\Debug\net5.0\SwitchStatementProject.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\SwitchStatementProject\obj\Debug\net5.0\SwitchStatementProject.dll
+C:\Users\antho\repos\SwitchStatementProject\obj\Debug\net5.0\ref\SwitchStatementProject.dll
+C:\Users\antho\repos\SwitchStatementProject\obj\Debug\net5.0\SwitchStatementProject.pdb
+C:\Users\antho\repos\SwitchStatementProject\obj\Debug\net5.0\SwitchStatementProject.genruntimeconfig.cache
